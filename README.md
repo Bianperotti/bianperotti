@@ -5,7 +5,7 @@ Front-end developer | Architect | Designer
 ------------------------------------------
 
 * ✉️  You can contact me at [bianca.perotti@hotmail.com](mailto:bianca.perotti@hotmail.com)
-* 🚀  I'm currently working on [Random books awards](http://books-awards.vercel.app/)
+* ⚡ Fun fact: I love CSS
 
 ### Skills
 
